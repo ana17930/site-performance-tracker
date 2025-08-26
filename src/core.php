@@ -14,3 +14,4 @@ Allows you to detect and track site performance metrics
 // guard against empty input
 // drop an unused branch
 // drop an unused branch
+// clarify the control flow
