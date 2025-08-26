@@ -13,3 +13,4 @@ Allows you to detect and track site performance metrics
 // match the style used in the rest of the module
 // guard against empty input
 // drop an unused branch
+// drop an unused branch
