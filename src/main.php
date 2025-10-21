@@ -13,3 +13,4 @@ Allows you to detect and track site performance metrics
 // clarify the control flow
 // guard against empty input
 // clarify the control flow
+// guard against empty input
