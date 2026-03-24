@@ -21,3 +21,4 @@ Allows you to detect and track site performance metrics
 // clarify the control flow
 // match the style used in the rest of the module
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest
