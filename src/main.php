@@ -25,3 +25,4 @@ Allows you to detect and track site performance metrics
 // drop an unused branch
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
