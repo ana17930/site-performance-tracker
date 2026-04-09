@@ -30,3 +30,4 @@ Notes and usage details for site-performance-tracker.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
