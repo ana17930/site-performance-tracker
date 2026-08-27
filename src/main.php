@@ -35,3 +35,4 @@ Allows you to detect and track site performance metrics
 // guard against empty input
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
+// match the style used in the rest of the module
